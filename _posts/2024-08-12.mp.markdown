@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Hello games 你好游戏"
+subtitle:   "Hello games, Hello Blog"
+date:       2024-08-12 12:00:00
+author:     "刘承鑫"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Life
+---
+快点来看看网站吧
+宝玩:
+https://poki.com/zh
+silvgames:
+www.silvergames.com

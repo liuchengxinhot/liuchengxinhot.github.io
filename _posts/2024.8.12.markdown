@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "Hello 游戏"
+subtitle:   "Hello 游戏, Hello Blog"
+date:       2024-08-12 12:00:00
+author:     "Hux"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Life
+---
+poki.com
+www.silvegames.com
+thank you

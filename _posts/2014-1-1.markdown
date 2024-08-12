@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "游戏web"
+subtitle:   "Hello game, Hello Blog"
+date:       2014-01-01 19:47:00
+author:     "Hux"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Life
+---
+https://poki.com/zh
+www.silvegames.com

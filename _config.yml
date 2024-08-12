@@ -1,6 +1,6 @@
 # Site settings
-title: CEXI/liuchengxin Blog
-SEOTitle: liuchengxin/CEXI的博客 | liuchengxin/CEXI Blog
+title: CEXI/刘承鑫 Blog
+SEOTitle: 刘承鑫/CEXI的博客 | 刘承鑫/CEXI Blog
 header-img: img/home-bg.jpg
 email: qweqweqwerrrtttyyy@outlook.com
 description: "这里是 @liuchengxin 的个人博客，过好每一天开心每一年 | 要做一个每天开心的人"
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: liuchengxinhot
-zhihu_username: liuchengxinhot
+weibo_username: huxpro
+zhihu_username: huxpro
 github_username: liuchengxinhot
-twitter_username: liuchengxinhot
+twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "感谢技术爬爬虾and黄玄 <br> React Team @ Meta"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags

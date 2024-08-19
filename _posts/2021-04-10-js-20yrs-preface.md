@@ -11,6 +11,6 @@ tags:
 
 > [poki game/poki游戏](https://poki.com/zh)
 
->[silvegames game/silvegames游戏](www.silvegames.com)
+>[silvegames game/silvegames游戏](www.silvergames.com)
 
 — liuchengxin 专做好玩的Web

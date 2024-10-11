@@ -11,4 +11,4 @@ tags:
 [海螺AI网址](http://hailuoai.com)
 
 
-thank you
+Thank you
